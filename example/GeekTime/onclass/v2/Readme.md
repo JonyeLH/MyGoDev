@@ -1,0 +1,2 @@
+- 方法：采用Context处理原生的API
+- 问题：暴露Context的生成对象给Server

@@ -1,0 +1,2 @@
+- 方法：添加method的请求方法
+- 问题：Route内部强依赖于handler、HandlerBasedMap的内部实现
